@@ -63,7 +63,7 @@ Learnt to use pseudo classes.
 ## Author
 
 - Website - [coming soon...]
-- LinkedIn - [Ebunoluwa Oyebola]
+- LinkedIn - https://www.linkedin.com/in/ebunoluwa-oyebola-1490021b1
 - Twitter - [@Ebun_ski](https://www.twitter.com/Ebun_ski)
 - Email - [ebunoyebola03@gmail.com]
 
