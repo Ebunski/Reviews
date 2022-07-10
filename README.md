@@ -52,18 +52,12 @@ Users should be able to:
 1. Css:
 
 Learnt how to style an avatar image - giving the class to the image tag.
-Hero section negative margin and pseudo class background (z-index: -1)
-Navbar with transparent bg
-sidebar: scale, visibility and z-index transition on show.
+Learnt how to delicately add box-shadows and general color scheme.
+Learnt to use pseudo classes.
 
 2. React:
-   First and foremost, i learnt the importance of default values. Had a bug that took me hours to solve.
-   Default falues are important when dealing with map functions.
-   That being said, i learnt about the onMouseOver event listener.
-   Also learnt about event.target.textContent and .contains objects and got to practice .getBoundingClientRect()
-   I was also able to put my debugging skills to test.
-   Got to pratice using context.
-   Practiced the useRef hook.
+   Learnt how to go through an index and handle end-of-array errors using a checker function.
+   Generate and correct random index
    Overall it was a very wonderful project.
 
 ## Author
